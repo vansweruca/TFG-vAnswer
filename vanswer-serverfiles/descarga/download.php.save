@@ -1,0 +1,16 @@
+<?php
+
+$locale = 'en_GB.utf-8';
+setlocale(LC_ALL, $locale);
+putenv('LC_ALL='.$locale);
+
+$tematica = "Topografía";
+$format = "mp4";
+$fileName = $tematica.".mp4";
+$url = "https://www.youtube.com/watch?v=yeREp9Up5_s";
+$pathServer = "/var/www/html/descarga/files/"."$fileName";
+
+shell_exec("youtube-dl -f mp4 $url -o 
+/var/www/html/descarga/files/$fileName"); youtube-dl
+f
+?> 

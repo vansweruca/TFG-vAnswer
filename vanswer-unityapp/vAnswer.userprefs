@@ -1,0 +1,19 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\scripts\GameController.cs">
+    <Files>
+      <File FileName="Assets\scripts\DropController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\LoginController.cs" Line="26" Column="3" />
+      <File FileName="Assets\scripts\CargaEscenaMenu.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\GameController.cs" Line="111" Column="31" />
+      <File FileName="Assets\ModeController.cs" Line="13" Column="18" />
+      <File FileName="Assets\RepasoController.cs" Line="1" Column="1" />
+      <File FileName="Assets\scripts\ManejaValorDropdown.cs" Line="14" Column="2" />
+      <File FileName="Assets\ResultController.cs" Line="23" Column="23" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>

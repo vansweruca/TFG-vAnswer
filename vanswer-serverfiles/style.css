@@ -1,0 +1,117 @@
+.dv0{
+    align: center;	
+    width:45%;
+    margin-left: 460px;
+    margin-right: 100px;
+}
+
+.dv6{
+
+   margin-bottom: 200px;
+
+}
+
+.dv1{
+    margin-bottom: -150px;
+}
+
+.dv4{
+    margin-top: 70px;
+}
+
+.dv5{
+   margin-bottom: -295px;
+}
+
+
+.dv1, .dv3, .dv5{
+    align: center;
+    width: 45%;
+    margin-left: 200px;
+    margin-right: 500px;
+}
+
+.dv2, .dv4, .dv6{
+    margin-top: -140px;
+    align: center;
+    width: 45%;
+    margin-left: 700px;
+    margin-right: 150px;
+}
+
+.lobster {
+    font-family: "Lobster", serif;
+    font-size: medium;
+    background-image: url("https://i.stack.imgur.com/MtKUX.jpg");
+    background-repeat: repeat;
+}
+
+.encabezado{
+   border: 1px solid #781351;
+   width: 20em;
+}
+
+th {
+    background-color: #4CAF50;
+    color: white;
+}
+
+table {
+    border-collapse: collapse;
+}
+
+table, th, td {
+    border: 1px solid black;
+}
+
+textarea{
+margin-top:0.3em;
+margin-bottom: 0.25em;
+}
+
+label
+{
+width: 12em;
+float: left;
+text-align: left;
+margin-right: 0.5em;
+display: block;
+}
+
+.submit input
+{
+margin-left: 4.5em;
+}
+select{
+margin-top: 0.2em;
+margin-bottom: 0.2em;
+} 
+
+input
+{
+margin-top: 0.5em;
+margin-bottom: 0.3em;
+color: #781351;
+background: #fee3ad;
+border: 1px solid #781351
+}
+
+.submit input
+{
+color: #000;
+background: #ffa20f;
+border: 2px outset #d7b9c9
+} 
+fieldset
+{
+border: 1px solid #781351;
+width: 20em;
+}
+
+legend
+{
+color: #fff;
+background: #ffa20c;
+border: 1px solid #781351;
+padding: 2px 6px
+}

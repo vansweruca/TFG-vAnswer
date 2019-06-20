@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<QCARConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="qcar_config.xsd">
+  <Tracking>
+    <ImageTarget name="isi19" size="942.000000 720.000000" />
+    <ImageTarget name="logouca" size="2480.000000 3292.000000" />
+    <ImageTarget name="gravilla-logo" size="550.000000 385.000000" />
+    <ImageTarget name="gopro_marcador" size="400.000000 400.000000" />
+  </Tracking>
+</QCARConfig>
